@@ -1,0 +1,7 @@
+{
+  "name": "Inside Solution - Advanced IT & Tech Solutions",
+  "description": "A professional IT solutions website for Inside Solution, featuring hardware, security, and networking services with a modern tech-inspired design in orange, black, and white.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

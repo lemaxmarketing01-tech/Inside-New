@@ -1,0 +1,40 @@
+/*
+Theme Name: Inside Solution
+Theme URI: https://insidesolution.in/
+Author: Inside Solution Team
+Description: A professional, technology-driven one-page theme for IT and security solution providers.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: inside-solution
+*/
+
+/* Global Resets and custom Brand Colors */
+:root {
+    --brand-orange: #F37021;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+}
+
+.orange-gradient {
+    background: linear-gradient(135deg, #F37021 0%, #FF8533 100%);
+}
+
+.bg-brand-orange {
+    background-color: #F37021 !important;
+}
+
+.text-brand-orange {
+    color: #F37021 !important;
+}
+
+.border-brand-orange {
+    border-color: #F37021 !important;
+}
